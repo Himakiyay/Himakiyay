@@ -54,7 +54,7 @@
 
 ## Communicate with me @
 <p>
-  <a href="https://www.linkedin.com/in/mark-esfahani-84256732b/">
+  <a href="https://www.linkedin.com/in/markey06/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
