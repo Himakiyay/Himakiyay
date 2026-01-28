@@ -52,6 +52,13 @@
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
+## Communicate with me @
+<p>
+  <a href="https://www.linkedin.com/in/mark-esfahani-84256732b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 ---
 
 ## Pinned Projects (Check these out)
@@ -60,9 +67,4 @@
 - 🚧 **Next:** Oregon Trail (group project)
 ---
 
-## Let’s Talk
-<p>
-  <a href="https://www.linkedin.com/in/mark-esfahani-84256732b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+
