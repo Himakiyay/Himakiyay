@@ -58,9 +58,6 @@
 - 📈 **Stock Broker Simulation** — paper trading, live-ish quotes, portfolio/positions, orders  
 - 🎮 **Clash Attack AI** — JavaScript project  
 - 🚧 **Next:** Oregon Trail (group project)
-
-> Tip: pin your best repos on your GitHub profile so they show up under this README.
-
 ---
 
 ## Let’s Talk
